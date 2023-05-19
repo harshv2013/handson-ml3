@@ -2,6 +2,8 @@
 local_util.py
 # images file
 handson-ml3/images/*
+handson-ml3/docker/*
+
 
 #env file
 dsvn/
