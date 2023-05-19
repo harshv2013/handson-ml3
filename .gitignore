@@ -1,5 +1,7 @@
 #me
 local_util.py
+# images file
+handson-ml3/images/*
 
 #env file
 dsvn/
