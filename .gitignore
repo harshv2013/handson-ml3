@@ -36,7 +36,7 @@ logfile
 .ipynb_checkpoints
 notebooks/
 
-*.ipynb
+#*.ipynb
 *.zip
 *.orig
 
